@@ -1,6 +1,7 @@
 import './App.css';
 import Component1 from './Component1';
 import { Car } from './Components/Car';
+import UseStateExamples from './Components/UseStateExamples';
 import UseState from './Components/UseState';
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
       <Car color="red"/>
       {/* Use State */}
       <UseState/>
+      {/* Use Effect */}
+      <UseStateExamples/>
     </div>
   );
 }
