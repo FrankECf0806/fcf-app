@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+.mainTop{
+    background-color: bisque;
+}
+.link {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: blue;
+    margin: 1rem;
+    font-family: Square Peg;
+}
+  

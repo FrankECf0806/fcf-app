@@ -36,8 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.link{
-  padding: 1rem; /* Adjust the value as needed */
-  margin-bottom: 1rem; /* Optional: to add space between divs */
-}
